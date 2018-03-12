@@ -1,4 +1,6 @@
 # eth-hodl
+An Ethereum smart contract written in solidity that can hodl ETH for a period of time.
+
 **Willpower is not reliable. Systems are.**
 
 This is my first try at writing a Solidity smart contract for Ethereum. All suggestions welcomed!
